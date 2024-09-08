@@ -1,0 +1,6 @@
+start
+divide the number by 2 
+if the number is exactly divisilbe by 2 then 
+print even number 
+else print odd number 
+end
